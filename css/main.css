@@ -50,7 +50,7 @@ h1 span {
 h1 span::before {
     content: ' ';
     position: absolute;
-    width: 3em;
+    width: 4em;
     background: #00bfff;
     height: .4em;
     bottom: 0;
